@@ -1,8 +1,10 @@
 [package]
 name = "klak"
+description = "Klak is a slightly minimalistic tui text editor"
 version = "0.1.0"
+repository = "https://github.com/Greentrunk/klak"
 edition = "2021"
+license = "Apache-2.0"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
